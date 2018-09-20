@@ -1,4 +1,4 @@
-# Data Structures and Programming -- Assignment 1 #
+# Data Structures and Programming -- Assignment 2 #
 
 ## 1. Introduction ##
 
